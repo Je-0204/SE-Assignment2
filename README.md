@@ -16,5 +16,6 @@ git config 명령어를 사용해 지금 이 작업을 누가 진행하는지를
 ### commit
 git commit 명령어를 실행하면 현재 버전에 대한 정보를 조회, 입력할 수 있다.
 ![commit 실행화면](https://github.com/Versus-Young/SE-Assignment2/blob/efbabd9930f7014d583c21bb59336d85b2391906/commit%20%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B41.PNG)
+
 이 화면은 commit 명령어를 입력했을 시에 나타난다.
 ![commit 실행화면2](https://github.com/Versus-Young/SE-Assignment2/blob/efbabd9930f7014d583c21bb59336d85b2391906/commit%20%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B42.PNG)
