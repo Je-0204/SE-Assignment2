@@ -19,3 +19,6 @@ git commit 명령어를 실행하면 현재 버전에 대한 정보를 조회, �
 
 이 화면은 commit 명령어를 입력했을 시에 나타난다.
 ![commit 실행화면2](https://github.com/Versus-Young/SE-Assignment2/blob/efbabd9930f7014d583c21bb59336d85b2391906/commit%20%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B42.PNG)
+
+그리고 내용을 입력한 후 돌아오면 이런 화면이 나온다.
+![commit 실행화면3](https://github.com/Versus-Young/SE-Assignment2/blob/86dc16f93b96c7216ec99bca545cc67d4e0f873e/commit%20%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B43.PNG)
