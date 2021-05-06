@@ -22,3 +22,7 @@ git commit 명령어를 실행하면 현재 버전에 대한 정보를 조회, �
 
 그리고 내용을 입력한 후 돌아오면 이런 화면이 나온다.
 ![commit 실행화면3](https://github.com/Versus-Young/SE-Assignment2/blob/86dc16f93b96c7216ec99bca545cc67d4e0f873e/commit%20%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B43.PNG)
+
+### log
+git log 명령어를 실행하면 현재 버전에 대한 간략한 정보를 볼 수 있다.
+![log 실행화면](https://user-images.githubusercontent.com/81523488/117293251-1e3f3980-aeac-11eb-810a-27974f0ab29c.png)
