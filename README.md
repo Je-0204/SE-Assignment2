@@ -31,3 +31,7 @@ git log 명령어를 실행하면 현재 버전에 대한 간략한 정보를 �
 git reset 명령어를 사용하면 과거 버전으로 돌아갈 수 있다. 이때 옵션에 따라 상태가 달라지는데 --hard 옵션을 사용하면 돌아가고 싶은 버전 이후의 모든 것이 reset된다. 이 화면은 버전 2를 삭제하고 버전 1으로 돌아가는 과정이다. (중간의 git reset과 아무것도 치지 않은 것은 이 과정과 관계가 없다.)
 
 ![reset 실행화면](https://github.com/Versus-Young/SE-Assignment2/blob/f93fbe6fed6ea249b9968f423f8e7efbf88024f5/reset%20%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4.PNG)
+
+### branch
+git branch 명령어를 실행하면 현재 사용중인 branch가 무엇인지 알려준다.
+![branch 실행화면](https://github.com/Versus-Young/SE-Assignment2/blob/b029eb137da06f32bd1245d704c44fc4332fb908/branch%20%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4.PNG)
