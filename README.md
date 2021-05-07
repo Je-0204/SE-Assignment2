@@ -38,3 +38,7 @@ git branch 명령어를 실행하면 현재 사용중인 branch가 무엇인지 
 
 새로운 branch를 만들고 싶으면 git branch <branch 이름> 명령어를 사용하면 된다.
 ![branch 실행화면2](https://github.com/Versus-Young/SE-Assignment2/blob/77aa0496d4c9c8cc02c08f4404185dd2c4905ca3/branch%20%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B42.PNG)
+
+#### checkout
+그리고 다른 branch로 이동하고 싶을 때에는 git checkout 명령어를 사용하면 된다.
+![checkout 실행화면](https://github.com/Versus-Young/SE-Assignment2/blob/b75e238b2cdef98f9d33c851915efc31247af37b/checkout%20%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4.PNG)
