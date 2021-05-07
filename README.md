@@ -62,3 +62,11 @@ git clone <주소> <복사할 directory> 명령어를 사용해주면 복사가 
 원격 저장소(여기선 github)를 현재 local 저장소에 추가하려면 git remote 명령어를 사용하면 됩니다.
 git remote add (별명) <원격 저장소 주소> 이런 식으로 사용해주는 것이 일반적입니다.
 ![remote 실행화면](https://github.com/Versus-Young/SE-Assignment2/blob/03acedf1b23a59989460eec46e042402fc27054c/remote%20%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4.PNG)
+
+### push
+로컬 저장소에서 작업한 파일을 원격 저장소에 올리고 싶을 때에 git push 명령어를 사용한다.
+git push -u <원격저장소> <로컬저장소> 의 형태로 사용하면 된다. (-u는 다음에도 push를 할 때에 같은 원격 저장소에 저장한다는 뜻이다.)
+![push 실행화면1](https://github.com/Versus-Young/SE-Assignment2/blob/5d32921ea3d269decc2367719c54b55b88df12bd/push%20%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B41.PNG)
+
+명령어를 실행하면 github에 로그인을 해야하고 그 후 다시 돌아오면 이런 상태가 된다.
+![push 실행화면2](https://github.com/Versus-Young/SE-Assignment2/blob/5d32921ea3d269decc2367719c54b55b88df12bd/push%20%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B42.PNG)
