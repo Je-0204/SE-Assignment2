@@ -35,3 +35,6 @@ git reset 명령어를 사용하면 과거 버전으로 돌아갈 수 있다. �
 ### branch
 git branch 명령어를 실행하면 현재 사용중인 branch가 무엇인지 알려준다.
 ![branch 실행화면](https://github.com/Versus-Young/SE-Assignment2/blob/b029eb137da06f32bd1245d704c44fc4332fb908/branch%20%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4.PNG)
+
+새로운 branch를 만들고 싶으면 git branch <branch 이름> 명령어를 사용하면 된다.
+![branch 실행화면2](https://github.com/Versus-Young/SE-Assignment2/blob/77aa0496d4c9c8cc02c08f4404185dd2c4905ca3/branch%20%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B42.PNG)
