@@ -46,3 +46,6 @@ git branch 명령어를 실행하면 현재 사용중인 branch가 무엇인지 
 ### merge
 branch를 병합하고 싶으면 git merge 명령어를 사용하면 된다. exp branch를 master branch에 병합하고 싶으면 git merge <branch 이름> 명령어를 사용하면 되는데 이때 꼭 master branch로 checkout 해야한다.
 ![merge 실행화면1](https://github.com/Versus-Young/SE-Assignment2/blob/feecd4fa98bf7b47db975aeae5417ea82daf949a/merge%20%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B41.PNG)
+
+merge를 실행한 결과, 이러한 상태가 된다.
+![merge 실행화면2](https://github.com/Versus-Young/SE-Assignment2/blob/38f3f9f6e343fe624907bb5b1b15af94d30f96c9/merge%20%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B42.PNG)
