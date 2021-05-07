@@ -42,3 +42,7 @@ git branch 명령어를 실행하면 현재 사용중인 branch가 무엇인지 
 #### checkout
 그리고 다른 branch로 이동하고 싶을 때에는 git checkout 명령어를 사용하면 된다.
 ![checkout 실행화면](https://github.com/Versus-Young/SE-Assignment2/blob/b75e238b2cdef98f9d33c851915efc31247af37b/checkout%20%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4.PNG)
+
+### merge
+branch를 병합하고 싶으면 git merge 명령어를 사용하면 된다. exp branch를 master branch에 병합하고 싶으면 git merge <branch 이름> 명령어를 사용하면 되는데 이때 꼭 master branch로 checkout 해야한다.
+![merge 실행화면1](https://github.com/Versus-Young/SE-Assignment2/blob/feecd4fa98bf7b47db975aeae5417ea82daf949a/merge%20%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B41.PNG)
