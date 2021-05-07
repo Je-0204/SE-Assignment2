@@ -57,3 +57,8 @@ git clone 명령어를 사용하면 repository를 복사할 수 있다.
 
 git clone <주소> <복사할 directory> 명령어를 사용해주면 복사가 완료된다.
 ![clone 실행화면2](https://github.com/Versus-Young/SE-Assignment2/blob/541af5c2ec4055a5d1ab7244888d680184804499/clone%20%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B42.PNG)
+
+### remote
+원격 저장소(여기선 github)를 현재 local 저장소에 추가하려면 git remote 명령어를 사용하면 됩니다.
+git remote add (별명) <주소> 이런 식으로 사용해주는 것이 일반적입니다.
+![remote 실행화면](https://github.com/Versus-Young/SE-Assignment2/blob/03acedf1b23a59989460eec46e042402fc27054c/remote%20%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4.PNG)
