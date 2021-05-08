@@ -131,5 +131,10 @@ git tag 명령어를 사용하면 tag를 만들 수 있다. 가장 최신의 커
       <td>O</td>
     </tr>
   </tbody>
+  <tbody>
+    <tr>
+      <td>[init으로 이동](###-init)</td>
+    </tr>
+  </tbody>
 </table>
       
