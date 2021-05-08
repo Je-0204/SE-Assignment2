@@ -151,7 +151,7 @@ git tag 명령어를 사용하면 tag를 만들 수 있다. 가장 최신의 커
 
 [checkout 설명으로 이동](###-checkout)
 
-[merge 설명으로 이동](### merge)
+[merge 설명으로 이동](###-merge)
 
 [clone 설명으로 이동](###-clone)
 
