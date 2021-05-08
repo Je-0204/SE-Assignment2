@@ -133,34 +133,34 @@ git tag 명령어를 사용하면 tag를 만들 수 있다. 가장 최신의 커
   </tbody>
 </table>
 
-[init 설명으로 이동](###-init)
+[init 설명으로 이동](#init)
 
-[status 설명으로 이동](###-status,add)
+[status 설명으로 이동](#status,add)
 
-[add 설명으로 이동](###-status,add)
+[add 설명으로 이동](#status,add)
 
-[config 설명으로 이동](###-config)
+[config 설명으로 이동](#config)
 
-[commit 설명으로 이동](###-commit)
+[commit 설명으로 이동](#commit)
 
-[log 설명으로 이동](###-log)
+[log 설명으로 이동](#log)
 
-[reset 설명으로 이동](###-reset)
+[reset 설명으로 이동](#reset)
 
-[branch 설명으로 이동](###-branch)
+[branch 설명으로 이동](#branch)
 
-[checkout 설명으로 이동](###-checkout)
+[checkout 설명으로 이동](#checkout)
 
-[merge 설명으로 이동](###-merge)
+[merge 설명으로 이동](#merge)
 
-[clone 설명으로 이동](###-clone)
+[clone 설명으로 이동](#clone)
 
-[remote 설명으로 이동](###-remote)
+[remote 설명으로 이동](#remote)
 
-[push 설명으로 이동](###-push)
+[push 설명으로 이동](#push)
 
-[pull 설명으로 이동](###-pull)
+[pull 설명으로 이동](#pull)
 
-[tag 설명으로 이동](###-tag)
+[tag 설명으로 이동](#tag)
 
-[rebase 설명으로 이동](###-rebase)
+[rebase 설명으로 이동](#rebase)
