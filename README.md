@@ -134,4 +134,19 @@ git tag 명령어를 사용하면 tag를 만들 수 있다. 가장 최신의 커
 </table>
 
 [init 설명으로 이동](###-init)
-[status 설명으로 이동](###-statusadd)
+
+[status 설명으로 이동](###-status,add)
+
+[add 설명으로 이동](###-status,add)
+
+[config 설명으로 이동](###-config)
+
+[commit 설명으로 이동](###-commit)
+
+[log 설명으로 이동](###-log)
+
+[reset 설명으로 이동](###-reset)
+
+[branch 설명으로 이동](###-branch)
+
+[checkout 설명으로 이동](###-checkout)
