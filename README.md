@@ -83,3 +83,9 @@ git tag 명령어를 사용하면 tag를 만들 수 있다. 가장 최신의 커
 
 그 후, 태그를 원격 저장소에 추가하고 싶으면 git push --tags 명령어를 사용하면 된다.
 ![tag 실행화면2](https://github.com/Versus-Young/SE-Assignment2/blob/902a90ab42f396f4e8d9ddc419615ad86572b071/tag%20%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B42.PNG)
+
+### rebase
+만약 새로운 branch를 만들고 그 branch를 병합하고 싶을 때에 merge와는 조금 다른 방식으로 작동하는 것이 rebase이다.
+예를 들어 new라는 branch를 만들고 최신 base를 master로 변경하고 싶을 때에 new branch로 checkout한 후, git rebase master 명령어를 입력하면 다음과 같은 상태가 된다.
+
+![rebase 실행화면](https://github.com/Versus-Young/SE-Assignment2/blob/b91013429b945f842cecfb833e96cea24027f5cd/rebase%20%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4.PNG)
