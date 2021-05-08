@@ -89,3 +89,47 @@ git tag 명령어를 사용하면 tag를 만들 수 있다. 가장 최신의 커
 예를 들어 new라는 branch를 만들고 최신 base를 master로 변경하고 싶을 때에 new branch로 checkout한 후, git rebase master 명령어를 입력하면 다음과 같은 상태가 된다.
 
 ![rebase 실행화면](https://github.com/Versus-Young/SE-Assignment2/blob/b91013429b945f842cecfb833e96cea24027f5cd/rebase%20%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4.PNG)
+
+<table>
+  <thead>
+    <tr>
+      <th>init</th>
+      <th>status</th>
+      <th>add</th>
+      <th>config</th>
+      <th>commit</th>
+      <th>log</th>
+      <th>reset</th>
+      <th>branch</th>
+      <th>checkout</th>
+      <th>merge</th>
+      <th>clone</th>
+      <th>remote</th>
+      <th>push</th>
+      <th>pull</th>
+      <th>tag</th>
+      <th>rebase</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>O</td>
+      <td>O</td>
+      <td>O</td>
+      <td>O</td>
+      <td>O</td>
+      <td>O</td>
+      <td>O</td>
+      <td>O</td>
+      <td>O</td>
+      <td>O</td>
+      <td>O</td>
+      <td>O</td>
+      <td>O</td>
+      <td>O</td>
+      <td>O</td>
+      <td>O</td>
+    </tr>
+  </tbody>
+</table>
+      
