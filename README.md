@@ -75,3 +75,7 @@ git push -u <원격저장소> <로컬저장소> 의 형태로 사용하면 된�
 이번엔 원격 저장소에 있는 파일을 로컬 저장소에 불러오고 싶을 때, git pull 명령어를 사용하면 된다.
 이 화면은 origin이라는 원격 저장소에서 master라는 로컬 저장소에 파일을 불러오는 화면이다. (아직 바뀐 내용이 없기 때문에 이런 화면이 뜬다.)
 ![pull 실행화면](https://github.com/Versus-Young/SE-Assignment2/blob/977232138db69e4885ac35ac38c1d0da2f1e40d2/pull%20%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4.PNG)
+
+### tag
+git tag 명령어를 사용하면 tag를 만들 수 있다. 가장 최신의 커밋에 태그를 만들고 싶으면 git tag <버전> <branch 이름> 이런 식으로 작성하면 된다.
+![tag 실행화면](https://github.com/Versus-Young/SE-Assignment2/blob/2262f5a3e61da61ee01514f0c3d6a2957ce0f2fc/tag%20%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4.PNG)
