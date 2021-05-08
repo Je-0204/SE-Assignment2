@@ -135,7 +135,7 @@ git tag 명령어를 사용하면 tag를 만들 수 있다. 가장 최신의 커
 
 [init 설명으로 이동](#init)
 
-[status 설명으로 이동](#status,add)
+[status 설명으로 이동](#status-add)
 
 [add 설명으로 이동](#status-add)
 
